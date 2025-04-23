@@ -37,7 +37,7 @@ You can easily customize:
 
 ## 📸 Preview
 
-![Digital Clock Screenshot](screenshot.png) *(Include a screenshot of your clock UI here)*
+![Digital Clock Screenshot](images/desktopview.png) 
 
 ## 📄 License
 
